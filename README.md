@@ -2,18 +2,7 @@
 
 ## Introduction ##
 
-This project aims to integrate transportation services provided by the UMD Department of Transportation Services (DOTS) and develop a comprehensive mobile application, Moving Terps. It will serve as the main tool for assisting students, faculty, and staff to commute to and travel around the campus.
-
-## ##
-
-● Users: Enrolled students, faculty, staff
-● Sponsors: UMD DOTS ● Responsibilities:
-  ○ Initiation - The entire team
-  ○ Analysis and Interviews
-      ■ Collect requirements from students: Jingru Liu
-      ■ Collect requirements from faculty: Raghul Pandi
-      ■ Collect requirements from the Department of Transportation Services staff: Kai-Hsiang Lin, Krishik Nataraj Gowda
-      ■ Requirements Determination: The entire team
+This project aims to integrate transportation services provided by the UMD Department of Transportation Services (DOTS) and develop a comprehensive mobile application, "Moving Terps". It will serve as the main tool for assisting students, faculty, and staff to commute to and travel around the campus.
 
 ## Introduction of Client ##
 
@@ -23,21 +12,20 @@ The Department of Transportation Services is an integral part of the University 
 
 The main objective of Moving Terps is to better connect students, faculty and staff at University of Maryland with Department of Transport Services. Once implemented, this application will make everyday travel and parking in college effortless for the users.
 
-"Moving Terps" is a mobile application which aims to make daily commute and parking facility around the campus more convenient and efficient. The app transforms the most frequently used services provided by the UMD Department of Transportation Services into functions on the interface for easier access. Enrolled students, faculty, and staff will have access to the application by logging into their directory id. As a user-based instead of office-based system, Moving Terps display transportation information in a more dynamic and smart way by allowing users to interact with the application and receive recommendations. The deployment of Moving Terps should increase users’ satisfaction rate and provide much more intuitive and accurate transportation information.
+"Moving Terps" is a mobile application which aims to make daily commute and parking facility around the campus more convenient and efficient. The app transforms the most frequently used services provided by the UMD Department of Transportation Services into functions on the mobile interface for easier access. Enrolled students, faculty, and staff will have access to the application by logging into their directory id. As a user-based instead of office-based system, Moving Terps display transportation information in a more dynamic and smart way by allowing users to interact with the application and receive recommendations. The deployment of Moving Terps should increase users’ satisfaction rate and provide much more intuitive and accurate transportation information.
 
 ## Project Scope ##
 
 ● Accounts Management: Users will be able to log into the application with UMD directory id. The system should be able to identify account types (student/staff/faculty). Users can also save frequently-used bus routes and parking lots as favorites.
+
 ● Shuttle: Users are able to enter starting location and destination, and the application will recommend bus routes along with real- time bus tracking information (location, arriving time and capacity) on an interactive map. Users can also check nearby stations and the routes passing by.
+
 ● Parking: Users are able to enter starting location and destination, and an interactive map will show parking lot recommendations based on user type together with the detailed parking lot restrictions. Then, by clicking on a recommended parking lot, the system will show the direction to get to that selected parking lot. Users can update personal and vehicle information, pay for permits, citations, and temporary parking, appeal against citations.
+
 ● Notification: Notify any impact schedule and current status (specific shuttle and parking lot availability during special events) through “push notification.” Users don’t need to check email or the impact calendar manually.
+
 ● Third-party online payment system to allow students to pay for parking permits, citations, and temporary parking.
+
 ● Mobile identity verification system to allow users utilize mobile devices to scan QR code/tap on a NFC (near-field communication) terminal so that their identity can be verified and the trip information can be stored in their accounts. A NFC terminal will need to be installed on each bus.
 
-## Project Methodology ##
-
-Waterfall & Prototype Mixed Methodology
-● The project has well defined requirements that don't change substantially during the development cycle.
-● There is privilege of time as most of the services, although not integrated and easy to use, are available across applications and DOTS website and existing mobile applications.
-● Incorporating system prototype in the design phase, allows for feedback cycles from users to identify changes and refine real requirements before implementation.
  
