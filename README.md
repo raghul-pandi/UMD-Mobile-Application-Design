@@ -1,4 +1,4 @@
-# Developing an Information System: Mobile Application for the Department of Transporation, University of Maryland
+# Designing an Information System: Mobile Application for the Department of Transporation, University of Maryland
 
 ## Introduction: ##
 
