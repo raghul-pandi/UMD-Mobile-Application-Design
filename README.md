@@ -16,16 +16,22 @@ The main objective of Moving Terps is to better connect students, faculty and st
 
 ## Project Scope: ##
 
-● Accounts Management: Users will be able to log into the application with UMD directory id. The system should be able to identify account types (student/staff/faculty). Users can also save frequently-used bus routes and parking lots as favorites.
+● Accounts Management: 
+Users will be able to log into the application with UMD directory id. The system should be able to identify account types (student/staff/faculty). Users can also save frequently-used bus routes and parking lots as favorites.
 
-● Shuttle: Users are able to enter starting location and destination, and the application will recommend bus routes along with real- time bus tracking information (location, arriving time and capacity) on an interactive map. Users can also check nearby stations and the routes passing by.
+● Shuttle: 
+Users are able to enter starting location and destination, and the application will recommend bus routes along with real- time bus tracking information (location, arriving time and capacity) on an interactive map. Users can also check nearby stations and the routes passing by.
 
-● Parking: Users are able to enter starting location and destination, and an interactive map will show parking lot recommendations based on user type together with the detailed parking lot restrictions. Then, by clicking on a recommended parking lot, the system will show the direction to get to that selected parking lot. Users can update personal and vehicle information, pay for permits, citations, and temporary parking, appeal against citations.
+● Parking: 
+Users are able to enter starting location and destination, and an interactive map will show parking lot recommendations based on user type together with the detailed parking lot restrictions. Then, by clicking on a recommended parking lot, the system will show the direction to get to that selected parking lot. Users can update personal and vehicle information, pay for permits, citations, and temporary parking, appeal against citations.
 
-● Notification: Notify any impact schedule and current status (specific shuttle and parking lot availability during special events) through “push notification.” Users don’t need to check email or the impact calendar manually.
+● Notification: 
+Notify any impact schedule and current status (specific shuttle and parking lot availability during special events) through “push notification.” Users don’t need to check email or the impact calendar manually.
 
-● Third-party online payment system to allow students to pay for parking permits, citations, and temporary parking.
+● Third-party online payment system:
+To allow students to pay for parking permits, citations, and temporary parking.
 
-● Mobile identity verification system to allow users utilize mobile devices to scan QR code/tap on a NFC (near-field communication) terminal so that their identity can be verified and the trip information can be stored in their accounts. A NFC terminal will need to be installed on each bus.
+● Mobile identity verification system:
+To allow users utilize mobile devices to scan QR code/tap on a NFC (near-field communication) terminal so that their identity can be verified and the trip information can be stored in their accounts. A NFC terminal will need to be installed on each bus.
 
  
