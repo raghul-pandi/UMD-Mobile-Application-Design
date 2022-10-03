@@ -1,14 +1,14 @@
-# Developing an Information System: Mobile App for the Department of Transporation, University of Maryland
+# Developing an Information System: Mobile Application for the Department of Transporation, University of Maryland
 
-## Introduction ##
+## Introduction: ##
 
 This project aims to integrate transportation services provided by the UMD Department of Transportation Services (DOTS) and develop a comprehensive mobile application, "Moving Terps". It will serve as the main tool for assisting students, faculty, and staff to commute to and travel around the campus.
 
-## Introduction of Client ##
+## Introduction of Client: ##
 
 The Department of Transportation Services is an integral part of the University of Maryland (UMD). DOTS is committed to providing safe, cost effective and innovative services that anticipate the needs of our growing community of more than 50,000 students, faculty and staff in the city of College Park and beyond. The various services provided by DOTS include a free shuttle program for its users, an on-demand NITE ride facility for users living in the vicinity of the campus, Charter for long haul travel, parking system in the university, and sustainable transport facilities like carpool, carshare, electric vehicle charging stations.
 
-## Project Objective ##
+## Project Objective: ##
 
 The main objective of Moving Terps is to better connect students, faculty and staff at University of Maryland with Department of Transport Services. Once implemented, this application will make everyday travel and parking in college effortless for the users.
 
