@@ -14,7 +14,7 @@ The main objective of Moving Terps is to better connect students, faculty and st
 
 "Moving Terps" is a mobile application which aims to make daily commute and parking facility around the campus more convenient and efficient. The app transforms the most frequently used services provided by the UMD Department of Transportation Services into functions on the mobile interface for easier access. Enrolled students, faculty, and staff will have access to the application by logging into their directory id. As a user-based instead of office-based system, Moving Terps display transportation information in a more dynamic and smart way by allowing users to interact with the application and receive recommendations. The deployment of Moving Terps should increase users’ satisfaction rate and provide much more intuitive and accurate transportation information.
 
-## Project Scope ##
+## Project Scope: ##
 
 ● Accounts Management: Users will be able to log into the application with UMD directory id. The system should be able to identify account types (student/staff/faculty). Users can also save frequently-used bus routes and parking lots as favorites.
 
